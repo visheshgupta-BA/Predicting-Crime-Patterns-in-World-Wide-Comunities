@@ -1,0 +1,1 @@
+# Predicting-Crime-Patterns-in-World-Wide-Comunities-A-Regression-Approach
